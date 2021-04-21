@@ -1,1 +1,1 @@
-vut-ipk-proj1
+20/20
